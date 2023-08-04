@@ -1,0 +1,91 @@
+#margemGeral {
+  margin: 10px;
+}
+
+#Botão {
+  border: solid 2px rgba(150, 191, 197, 0.526);
+  border-radius: 500px;
+  color: rgb(0, 0, 0);
+  background-color: #f5f5dc;
+  transition: background-color 0.5s ease, transform 0.5s ease;
+  cursor: pointer;
+  height: 40px;
+  width: 60px;
+}
+
+#BotãoProdutos {
+  border: solid 2px rgba(150, 191, 197, 0.526);
+  border-radius: 500px;
+  color: rgb(0, 0, 0);
+  background-color: #f5f5dc;
+  transition: background-color 0.5s ease, transform 0.5s ease;
+  cursor: pointer;
+  height: 65px;
+  width: 125px;
+}
+
+#teste {
+  margin: 50px;
+  max-width: 800px;
+}
+
+#teste2 {
+  max-width: 300px;
+}
+
+#Botão:hover {
+  background-color: #f5f5dc;
+  color: rgb(0, 0, 0);
+  transform: scale(1.2);
+}
+
+#start {
+  text-align: center;
+}
+
+#textoImagem {
+  display: inline-flex;
+  text-align: center;
+}
+
+#foto {
+  width: 250px;
+  height: 200px;
+}
+
+#fotoParcerias {
+  width: 250px;
+  height: 200px;
+}
+
+#textoEspecifico {
+  width: 91%;
+  text-align: right;
+}
+
+#textoDireita {
+  text-align: right;
+}
+
+#textoEsquerda {
+  text-align: left;
+}
+
+#textoCentro {
+  text-align: center;
+}
+
+#margem {
+  padding: 50px;
+}
+
+#margemParc {
+  text-align: center;
+  margin: 50px;
+}
+
+#orgParc {
+  display: flex;
+  padding-right: 200px;
+  padding-left: 270px;
+}
